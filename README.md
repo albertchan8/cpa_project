@@ -2,9 +2,9 @@
 CPA Senior Project 2016
 
 Quick Description: <br />
--Performance Analyzer Website/Application for students and professors in the field of Accounting/Finance.
--Senior group project for California State Polytechnic University, Pomona.
--Created with ASP.NET, Visual Basic, HTML, CSS, Bootstrap, SQL, Azure
+-Performance Analyzer Website/Application for students and professors in the field of Accounting/Finance. <br />
+-Senior group project for California State Polytechnic University, Pomona. <br />
+-Created with ASP.NET, Visual Basic, HTML, CSS, Bootstrap, SQL, Azure <br />
 -Features include: Upload Atricles, Read/View Articles, Search Articles, Ratio Construction, Ratio Analysis, View Income & Balance Statements, Object Capture & Predicate.
 
 Project Summary PDF: <br />
