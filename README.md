@@ -2,12 +2,12 @@
 CPA Senior Project 2016
 
 By:
-Albert Chan
-Henri Kyle Go
-Anderson Lam
-Alan Nguyen
-Sandro Wong
-Dezhi Yu
+Albert Chan <br />
+Henri Kyle Go <br />
+Anderson Lam <br />
+Alan Nguyen <br />
+Sandro Wong <br />
+Dezhi Yu <br />
 
-California State Polytechnic University, Pomona
+California State Polytechnic University, Pomona <br />
 Spring Quarter 2016
