@@ -2,7 +2,7 @@
 CPA Senior Project 2016
 
 By:
-Albert Chan\n
+Albert Chan
 Henri Kyle Go
 Anderson Lam
 Alan Nguyen
