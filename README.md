@@ -1,7 +1,7 @@
 # Corporate Performance Analyzer
 CPA Senior Project 2016
 
-By:
+By: <br />
 Albert Chan <br />
 Henri Kyle Go <br />
 Anderson Lam <br />
